@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-24 22:46:35</sys_created_on>
+        <sys_id>1e427f010fe83200cd674f8ce1050e8b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_1e427f010fe83200cd674f8ce1050e8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 13:56:30</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8d14605c70013110a258ecc45dec8fa6</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_number_1e427f010fe83200cd674f8ce1050e8b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_58872_needit_needit">x_58872_needit_needit</category><maximum_digits>6</maximum_digits><number>2000</number><prefix>NI</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-01-24 22:46:35</sys_created_on><sys_id>1e427f010fe83200cd674f8ce1050e8b</sys_id><sys_mod_count>3</sys_mod_count><sys_name>NI</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_number_1e427f010fe83200cd674f8ce1050e8b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-07 13:56:30</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-1020743342</payload_hash>
+        <record_name>NI</record_name>
+        <reverted_from/>
+        <source>9b1389c393053110f7c6921354891827</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 13:56:30</sys_created_on>
+        <sys_id>27930d4793053110f7c6921354891894</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a6fee1e680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 13:56:30</sys_updated_on>
+        <type>Number</type>
+        <update_guid>2f930d4756053110d82e36f716173593</update_guid>
+        <update_guid_history>2f930d4756053110d82e36f716173593:-1020743342,b913c10774053110b64c38b3cb3b0afa:0,6b920983eb0531104e78be8898e537f9:-253200167,3ff10d431105311065a4d129172042f8:-1020743342,ed212c0f97c131101b9d9045e5707285:0,fec04be20a0531103ae27e84801ebff8:-128406751,2d9083e2cd053110df1c340372a4ab46:-1020743342,6a2fb66294053110adbb56a67ff953b0:0,975bf22e57c131101ccc269e487ac48e:-281912907,619fb252e18131108380191626bded08:-1941164947</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 13:57:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>068e636a85154cf78081e82621e455e1</sys_id>
+        <sys_metadata>1e427f010fe83200cd674f8ce1050e8b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">8d13cdc393053110f7c69213548918e1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_number_1e427f010fe83200cd674f8ce1050e8b</sys_update_name>
+        <sys_update_version display_value="sys_number_1e427f010fe83200cd674f8ce1050e8b">27930d4793053110f7c6921354891894</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 13:57:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
